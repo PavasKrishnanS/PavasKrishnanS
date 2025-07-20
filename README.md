@@ -1,55 +1,51 @@
-<h1 align="center">👋 Hi, I'm Pavas Krishnan- Data. AI. Business. Impact.</h1>
+<h1 align="center">👋 Hi, I'm Pavas Krishnan — Data. AI. Business. Impact.</h1>
 <h3 align="center">AI, Data & Cloud Analytics Engineer | Python • SQL • BI • GenAI</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pavas"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/pavas-krishnan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="mailto:pshanmugasundaram@clarku.edu"><img src="https://img.shields.io/badge/Email-Contact-purple?logo=gmail"></a>
 </p>
 
 ---
 
 🎓 **Master’s in Information Technology, Clark University** (CGPA: 3.9/4.0)  
-🌎 Based in Charlotte, NC  
+🌎 Charlotte, NC  
 💡 Building next-gen data & AI solutions: analytics, automation, GenAI, and data-driven storytelling.
 
 ---
 
 ## 🛠️ Tech & Tools
 
-**Languages & Programming:**  
-`Python` • `R` • `SQL (Oracle, SQL Server, Snowflake)` • `C#` • `HTML/CSS`, 
+**Programming & Data Management:**  
+Python • R • SQL (PostgreSQL, MySQL, Oracle, SQL Server, Snowflake) • Java • C# • MongoDB • PySpark • HTML/CSS
 
-**Data Engineering & Automation**  
-Azure Data Factory • Azure Synapse Analytics • Azure Data Lake Gen2 • Databricks • AWS • Redshift • Snowflake • ETL Pipelines • Data Warehousing • Feature Engineering • VBA Macros
-• `Airflow` • `Apache Spark` • `Kafka` • `Alteryx`
+**Data Engineering & Automation:**  
+Azure Data Factory • Azure Synapse Analytics • Azure Data Lake Gen2 • Databricks • AWS • Redshift • Snowflake • ETL Pipelines • Data Warehousing • Feature Engineering • VBA Macros • Airflow • Apache Spark • Kafka • Alteryx
 
-**Machine Learning & Analytics**  
-XGBoost • Logistic Regression • Classification • NLP • Predictive Modeling • A/B Testing • Scikit-learn • TensorFlow  
+**Machine Learning & Analytics:**  
+XGBoost • Logistic Regression • Classification • Clustering • NLP • Predictive Modeling • A/B Testing • Generative AI • Scikit-learn • TensorFlow • PyTorch • ROC-AUC • Confusion Matrix
 
 **AI/ML/GenAI:**  
-`OpenAI (GPTs)` • `Azure AI` • `Hugging Face` • `Ollama` • `Langchain` • `Chroma DB`  
+OpenAI (GPTs) • Azure AI • Hugging Face • Ollama • Langchain • Chroma DB
 
-
-**Visualization/Business Intelligence:**  
-`Power BI` • `Tableau` • `Streamlit` • `Tableau Prep` • `Excel (Pivot/VBA)` • `DAX` • Google Sites • Flourish
+**Visualization & BI:**  
+Power BI • Tableau • Streamlit • Tableau Prep • Excel (Pivot/VBA) • DAX • Google Sites • Flourish
 
 **ERP:**  
-`SAP ECC`, `SAP MDG/MM`
+SAP ECC • SAP MDG/MM
 
 ---
-## 🛠 Languages & Tools
-
-**Programming & Data Management**  
-Python • R • SQL (PostgreSQL, MySQL, SQL Server) • Java • MongoDB • PySpark
-
-
 
 ## 🚀 Core Projects
 
-- **Factory Safety Chatbot:** Secure, RAG-powered chatbot with local LLMs (Ollama/Gemma) and private vector DB for factory safety documents.
-- **Seismic Insights:** Real-time data pipeline + medallion architecture for earthquake monitoring with Power BI on Microsoft Fabric.
-- **Boston Housing ML:** Regression & predictive modelling for housing/loan trends.
-- **Formula 1 EDA:** Exploratory analytics with Python, pandas, and Matplotlib.
+- **Factory Safety Chatbot:**  
+  Secure, RAG-powered chatbot with local LLMs (Ollama/Gemma) and private vector DB for factory safety documents.
+- **Seismic Insights:**  
+  Real-time data pipeline + medallion architecture for earthquake monitoring with Power BI on Microsoft Fabric.
+- **Boston Housing ML:**  
+  Regression & predictive modelling for housing/loan trends.
+- **Formula 1 EDA:**  
+  Exploratory analytics with Python, pandas, and Matplotlib.
 
 ---
 
@@ -61,10 +57,10 @@ Python • R • SQL (PostgreSQL, MySQL, SQL Server) • Java • MongoDB • Py
     - Applied XGBoost algorithms to predict equipment performance and inform proactive maintenance.
 
 - **Ernst & Young (EY):**  
-  SQL optimization, Automated Power BI reporting, predictive EMEA analytics for Merck Animal Health.
+    - SQL optimization, automated Power BI reporting, and predictive EMEA analytics for Merck Animal Health.
 
 - **Yogeesh Trading (ZA):**  
-  Tableau logistics analytics, SAP S&D, SQL inventory insights.
+    - Tableau logistics analytics, SAP S&D, and SQL inventory insights.
 
 ---
 
@@ -81,20 +77,14 @@ Python • R • SQL (PostgreSQL, MySQL, SQL Server) • Java • MongoDB • Py
 
 ## 📫 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/pavas)
+- [LinkedIn](https://www.linkedin.com/in/pavas-krishnan/)
 - [Email](mailto:pshanmugasundaram@clarku.edu)
-- https://pavasofficial.wixsite.com/pavas
+- [Portfolio](https://pavasofficial.wixsite.com/pavas)
 
 ---
 
-## ✨ Fun Facts
+## 💡 Passion
 
-> 🤖 Once built a RAG chatbot that became the de facto safety expert on the factory floor.
-
-> 🧑‍💻 My code runs better after encouragement—and coffee.
+I’m driven by a passion for the intersection of sports, technology, and business—believing that data-driven solutions can unlock value across industries. I love tackling real-world problems, exploring tech innovations, and connecting insights with impact.
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200">
-</p>
