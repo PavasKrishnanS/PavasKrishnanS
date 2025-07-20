@@ -85,6 +85,5 @@ SAP ECC • SAP MDG/MM
 
 ## 💡 Passion
 
-I’m driven by a passion for the intersection of sports, technology, and business—believing that data-driven solutions can unlock value across industries. I love tackling real-world problems, exploring tech innovations, and connecting insights with impact.
-
+I’m driven by a passion for the intersection of sports, technology, and business—believing that data-driven solutions can unlock value across industries. I am especially enthusiastic about democratizing AI by building small-scale, efficient, and private LLM solutions that run on local hardware, making advanced analytics accessible while securing business and team data. I love tackling real-world problems, exploring tech innovations, and transforming insights into impact.
 ---
