@@ -17,10 +17,10 @@
 ## 🛠️ Tech & Tools
 
 **Programming & Data Management:**  
-Python • R • SQL (PostgreSQL, MySQL, Oracle, SQL Server, Snowflake) • Java • C# • MongoDB • PySpark • HTML/CSS
+Python • R • SQL (PostgreSQL, MySQL, Oracle, SQL Server, Snowflake) • C# • MongoDB • PySpark • HTML/CSS
 
 **Data Engineering & Automation:**  
-Azure Data Factory • Azure Synapse Analytics • Azure Data Lake Gen2 • Databricks • AWS • Redshift • Snowflake • ETL Pipelines • Data Warehousing • Feature Engineering • VBA Macros • Airflow • Apache Spark • Kafka • Alteryx
+Azure Data Factory • Azure Synapse Analytics • Azure Data Lake Gen2 • Databricks • AWS Redshift • Snowflake • ETL Pipelines • Data Warehousing • Feature Engineering • Airflow • Apache Spark • Kafka • Alteryx
 
 **Machine Learning & Analytics:**  
 XGBoost • Logistic Regression • Classification • Clustering • NLP • Predictive Modeling • A/B Testing • Generative AI • Scikit-learn • TensorFlow • PyTorch • ROC-AUC • Confusion Matrix
