@@ -20,13 +20,13 @@
 Python • R • SQL (PostgreSQL, MySQL, Oracle, SQL Server, Snowflake) • C# • MongoDB • PySpark • HTML/CSS
 
 **Data Engineering & Automation:**  
-Azure Data Factory • Azure Synapse Analytics • Azure Data Lake Gen2 • Databricks • AWS Redshift • Snowflake • ETL Pipelines • Data Warehousing • Feature Engineering • Airflow • Apache Spark • Kafka • Alteryx
+Azure Data Factory • Azure Synapse Analytics • Azure Data Lake Gen2 • Databricks • AWS Redshift • Snowflake • ETL Pipelines • Data Warehousing • Feature Engineering • Airflow • Apache Spark • Kafka • Alteryx  • DBT
 
 **Machine Learning & Analytics:**  
 XGBoost • Logistic Regression • Classification • Clustering • NLP • Predictive Modeling • A/B Testing • Generative AI • Scikit-learn • TensorFlow • PyTorch • ROC-AUC • Confusion Matrix
 
 **AI/ML/GenAI:**  
-OpenAI (GPTs) • Azure AI • Hugging Face • Ollama • Langchain • Chroma DB
+OpenAI (GPTs) • Azure AI • Hugging Face • Ollama • Langchain • Chroma DB  • AI Agents (CrewAI, Autogen)
 
 **Visualization & BI:**  
 Power BI • Tableau • Streamlit • Tableau Prep • Excel (Pivot/VBA) • DAX • Google Sites • Flourish
