@@ -20,7 +20,7 @@
 Python • R • SQL (PostgreSQL, MySQL, Oracle, SQL Server, Snowflake) • C# • MongoDB • PySpark • HTML/CSS • Graph Database (Neo4j)
 
 **Data Engineering & Automation:**  
-Azure Data Factory • Azure Synapse Analytics • Azure Data Lake Gen2 • Databricks • AWS Redshift • Snowflake • ETL Pipelines • Data Warehousing • Feature Engineering • Airflow • Apache Spark • Kafka • Alteryx  • DBT(Data Built Tool)  • Prefect.io(Data Orchestration Tool)
+Azure Data Factory • Azure Synapse Analytics • Azure Data Lake Gen2 • Databricks • AWS Redshift • Snowflake • ETL Pipelines • Data Warehousing • Feature Engineering • Airflow • Apache Spark • Kafka • Alteryx  • DBT(Data Built Tool)  • Prefect.io(Data Orchestration Tool) 
 
 **Machine Learning & Analytics:**  
 XGBoost • Logistic Regression • Classification • Clustering • NLP • Predictive Modeling • A/B Testing • Generative AI • Scikit-learn • TensorFlow • ROC-AUC 
@@ -31,13 +31,13 @@ MLflow • DagsHub • DVC • Azure DevOps • GitHub Actions • Microsoft ML 
 
 
 **AI/ML/GenAI:**  
-OpenAI (GPTs) • Azure AI • Hugging Face • Ollama • Langchain • Chroma DB(Vector Database)  • AI Agents (CrewAI, Autogen) • RAG (Classic,Graph,Hybrid)
+OpenAI (GPTs) • Azure AI • Hugging Face • Ollama • Langchain • Chroma DB(Vector Database)  • AI Agents (CrewAI, Autogen) • RAG (Classic,Graph,Hybrid) • Claude MCP
 
 **Visualization & BI:**  
 Power BI • Tableau • Streamlit • Tableau Prep • Excel (Pivot/VBA) • DAX • Google Sites • Flourish
 
 **ERP:**  
-SAP ECC • SAP MDG/MM
+SAP ECC • SAP MDG/MM • SAP SD modules
 
 ---
 
@@ -74,10 +74,12 @@ SAP ECC • SAP MDG/MM
 
 - Microsoft Power BI Associate
 - Alteryx Designer Core
+- Snowflake AI Engineer Professional
 - Databricks GenAI Fundamentals
 - Microsoft Fabric Data Engineer Associate
 - Azure Data Engineer Associate
 - SQL for Data Science
+- Snowflake Data Engineer Professional
 
 ---
 
@@ -91,5 +93,5 @@ SAP ECC • SAP MDG/MM
 
 ## 💡 Passion
 
-I’m driven by a passion for the intersection of sports, technology, and business—believing that data-driven solutions can unlock value across industries. I am especially enthusiastic about democratizing AI by building small-scale, efficient, and private LLM solutions that run on local hardware, making advanced analytics accessible while securing business and team data. I love tackling real-world problems, exploring tech innovations, and transforming insights into impact.
+I’m driven by the intersection of AI, energy, finance, and technology, with a strong belief that data-driven systems can unlock meaningful value across modern industries. I’m particularly interested in building AI agents and intelligent automation systems, leveraging edge computing and enterprise-scale data platforms to enable secure, low-latency analytics and decision-making. My interests span modern energy systems, financial intelligence, and data-center-scale architectures, where I enjoy solving real-world problems and transforming insights into scalable, high-impact solutions.
 ---
