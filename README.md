@@ -87,7 +87,7 @@ SAP ECC • SAP MDG/MM • SAP SD modules
 
 - [LinkedIn](https://www.linkedin.com/in/pavas-krishnan/)
 - [Email](mailto:pshanmugasundaram@clarku.edu)
-- [Portfolio](https://pavasofficial.wixsite.com/pavas)
+- [Portfolio]
 
 ---
 
