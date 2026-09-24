@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavas-krishnan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="mailto:pshanmugasundaram@clarku.edu"><img src="https://img.shields.io/badge/Email-Contact-purple?logo=gmail"></a>
+  <a href="mailto:pavaskrishna@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-purple?logo=gmail"></a>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ## 🛠️ Tech & Tools
 
 **Programming & Data Management:**  
-Python • R • SQL (PostgreSQL, MySQL, Oracle, SQL Server, Snowflake) • C# • MongoDB • PySpark • HTML/CSS • Graph Database (Neo4j)
+Python • R • SQL (PostgreSQL, MySQL, Oracle, SQL Server, Redis) • C# • MongoDB • PySpark • HTML/CSS • Graph Database (Neo4j)
 
 **Data Engineering & Automation:**  
 Azure Data Factory • Azure Synapse Analytics • Azure Data Lake Gen2 • Databricks • AWS Redshift • Snowflake • ETL Pipelines • Data Warehousing • Feature Engineering • Airflow • Apache Spark • Kafka • Alteryx  • DBT(Data Built Tool)  • Prefect.io(Data Orchestration Tool) 
@@ -29,15 +29,18 @@ XGBoost • Logistic Regression • Classification • Clustering • NLP • Pr
 
 MLflow • DagsHub • DVC • Azure DevOps • GitHub Actions • Microsoft ML Studio
 
+**Observability & Monitoring**
+
+**Splunk** • **Dynatrace** • Application Performance Monitoring (APM) • Log Analysis • Distributed Tracing • Application Health Monitoring • Performance Monitoring • Alert Investigation • Production Metrics • Service Health Monitoring
 
 **AI/ML/GenAI:**  
-OpenAI (GPTs) • Azure AI • Hugging Face • Ollama • Langchain • Chroma DB(Vector Database)  • AI Agents (CrewAI, Autogen) • RAG (Classic,Graph,Hybrid) • Claude MCP
+OpenAI (GPTs) • Azure AI • Hugging Face • Ollama • Langchain  • Langgraph • Chroma DB(Vector Database)  • AI Agents (CrewAI, Autogen) • RAG (Classic,Graph,Hybrid) • Claude MCP
 
 **Visualization & BI:**  
 Power BI • Tableau • Streamlit • Tableau Prep • Excel (Pivot/VBA) • DAX • Google Sites • Flourish
 
 **ERP:**  
-SAP ECC • SAP MDG/MM • SAP SD modules
+SAP ECC • SAP MDG/MM • SAP SD, PP modules
 
 ---
 
@@ -56,23 +59,27 @@ SAP ECC • SAP MDG/MM • SAP SD modules
 
 ## 💼 Experience
 
+- **Bank of America:**
+      - Monitor and support eCommerce/Digital Sales applications in production using Splunk and Dynatrace, investigating application errors, alerts, performance issues, and health service.
+      - Perform incident triage, troubleshooting, and root-cause analysis using SQL, Redis, application logs, and monitoring data, collaborating with development, infrastructure, and business teams to resolve production issues.
+
 - **Daimler Truck North America:**  
     - Built Power BI dashboards and Streamlit analytics for improved QA and decision support.
     - Developed real-time data pipelines using Python and Alteryx to extract machine sensor data.
     - Applied XGBoost algorithms to predict equipment performance and inform proactive maintenance.
-    - Built an AI-driven extraction pipeline using Gemini API to parse factory utility bills (electricity, water, gas), extracting structured fields and connecting them to cost dashboards, improving energy              consumption analysis and cost forecasting accuracy.
+    - Built an AI-driven extraction pipeline using Gemini API to parse factory utility bills (electricity, water, gas), extracting structured fields and connecting them to cost dashboards, improving energy consumption analysis and cost forecasting accuracy.
 
 - **Ernst & Young (EY):**  
-    - SQL optimization, automated Power BI reporting, and predictive EMEA analytics for Merck Animal Health.
-
-- **Yogeesh Trading (ZA):**  
-    - Tableau logistics analytics, SAP S&D, and SQL inventory insights.
+    -  Supported predictive and commercial analytics across EMEA markets for Merck Animal Health.
+    - Developed SQL-based analytics and optimized queries for enterprise data environments.
+    - Automated Power BI reporting and analytics workflows.
 
 ---
 
 ## 📜 Certifications
 
 - Microsoft Power BI Associate
+- Microsoft AI Agent Developer
 - Alteryx Designer Core
 - Snowflake AI Engineer Professional
 - Databricks GenAI Fundamentals
@@ -86,12 +93,16 @@ SAP ECC • SAP MDG/MM • SAP SD modules
 ## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/pavas-krishnan/)
-- [Email](mailto:pshanmugasundaram@clarku.edu)
-- [Portfolio]
+- [Email](mailto:pavaskrishna@gmail.com)
 
 ---
 
 ## 💡 Passion
 
-I’m driven by the intersection of AI, energy, finance, and technology, with a strong belief that data-driven systems can unlock meaningful value across modern industries. I’m particularly interested in building AI agents and intelligent automation systems, leveraging edge computing and enterprise-scale data platforms to enable secure, low-latency analytics and decision-making. My interests span modern energy systems, financial intelligence, and data-center-scale architectures, where I enjoy solving real-world problems and transforming insights into scalable, high-impact solutions.
+I’m driven by the intersection of **AI, data, finance, cloud technology, and enterprise systems**, with a strong belief that intelligent data-driven systems can unlock meaningful value across modern industries.
+
+I’m particularly interested in building **AI agents, intelligent automation, production-grade data platforms, and enterprise observability solutions**. My interests span financial technology, modern data architectures, cloud platforms, production engineering, edge computing, and data-center-scale systems.
+
+I enjoy solving real-world problems by combining **data engineering, AI, analytics, software engineering, and production operations** to build reliable and scalable technology solutions.
+
 ---
