@@ -66,7 +66,6 @@ SAP ECC • SAP MDG/MM • SAP SD, PP modules
 - **Daimler Truck North America:**  
     - Built Power BI dashboards and Streamlit analytics for improved QA and decision support.
     - Developed real-time data pipelines using Python and Alteryx to extract machine sensor data.
-    - Applied XGBoost algorithms to predict equipment performance and inform proactive maintenance.
     - Built an AI-driven extraction pipeline using Gemini API to parse factory utility bills (electricity, water, gas), extracting structured fields and connecting them to cost dashboards, improving energy consumption analysis and cost forecasting accuracy.
 
 - **Ernst & Young (EY):**  
