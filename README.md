@@ -59,9 +59,9 @@ SAP ECC • SAP MDG/MM • SAP SD, PP modules
 
 ## 💼 Experience
 
-- **Bank of America:**
-      - Monitor and support eCommerce/Digital Sales applications in production using Splunk and Dynatrace, investigating application errors, alerts, performance issues, and health service.
-      - Perform incident triage, troubleshooting, and root-cause analysis using SQL, Redis, application logs, and monitoring data, collaborating with development, infrastructure, and business teams to resolve production issues.
+ **Bank of America:**
+  - Monitor and support **eCommerce/Digital Sales applications** in production using **Splunk and Dynatrace**, investigating application errors, alerts, performance issues, and service health.
+  - Perform **incident triage, troubleshooting, and root-cause analysis** using **SQL, Redis, application logs, and monitoring data**, collaborating with development, infrastructure, and business teams to resolve production issues.
 
 - **Daimler Truck North America:**  
     - Built Power BI dashboards and Streamlit analytics for improved QA and decision support.
